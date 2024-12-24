@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "key": "localization", "value": "Localization" },
+    { "key": "start", "value": "Start Game" },
+    { "key": "setting", "value": "Setting" },
+	{ "key": "countineGame", "value": "Countine" },
+	{ "key": "exitGame", "value": "Exit" },
+	{ "key": "bannetToggle", "value": "Banner toggle" }
+	
+  ]
+}

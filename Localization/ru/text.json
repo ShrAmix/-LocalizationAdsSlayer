@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "key": "localization", "value": "Язык" },
+    { "key": "start", "value": "Играть" },
+    { "key": "setting", "value": "Настройки" },
+	{ "key": "countineGame", "value": "Продолжить" },
+	{ "key": "exitGame", "value": "Вийти" },
+	{ "key": "bannetToggle", "value": "Переключатель банера" }
+	
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "key": "localization", "value": "Мова" },
+    { "key": "start", "value": "Старт" },
+    { "key": "setting", "value": "Налаштування" },
+	{ "key": "countineGame", "value": "Продовжити" },
+	{ "key": "exitGame", "value": "Вихід" },
+	{ "key": "bannetToggle", "value": "Перемикач банера" }
+  ]
+}
